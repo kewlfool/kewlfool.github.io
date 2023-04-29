@@ -17,35 +17,3 @@ canvas {
   left: 0;
   z-index: -99;
 }
-
-.apple {
- display: block;
-   width: 100%;
-  font-size: 24pt;
-  text-align: center;
-/*  min-height: 100px;*/
-  background-color: indianred;
- 
-  padding: 20pt;
-  overflow: hidden;
-}
-
-
-
-.cherry {
-/*  width: 100%;*/
-  font-size: 24pt;
-  background-color: pink;
-  color: #FFF;
-  text-align: right;
-  padding: 4pt;
-}
-
-
-.blueberry {
-  width: 50%;
-  font-size: 24pt;
-  background-color: skyblue;
-  color: #FFF;
-  text-align: left;
-}
